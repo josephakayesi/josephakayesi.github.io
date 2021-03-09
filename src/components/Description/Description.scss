@@ -1,0 +1,24 @@
+.Description {
+  position: relative;
+  box-sizing: border-box;
+  max-width: 456px;
+  padding-left: 56px;
+  color: #000;
+}
+
+.Description__Logo {
+  position: absolute;
+  left: 0;
+  top: 8px;
+  width: 28px;
+}
+
+.Description p {
+  opacity: 0.5;
+}
+
+h1 {
+  color: black;
+  padding-bottom: 10px;
+  opacity: 0.5;
+}
